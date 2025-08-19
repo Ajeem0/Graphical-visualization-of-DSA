@@ -23,7 +23,7 @@ class DSAPlaygroundApp:
                   command=lambda: run_file("sort.py")).pack(pady=10)
         
         tk.Button(root, text="Tree Visualizer", width=30, height=2,
-                  command=lambda: run_file("tee.py")).pack(pady=10)
+                  command=lambda: run_file("tree.py")).pack(pady=10)
         
         tk.Button(root, text="Traversal Visualizer", width=30, height=2,
                   command=lambda: run_file("traversal.py")).pack(pady=10)
@@ -38,3 +38,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = DSAPlaygroundApp(root)
     root.mainloop()
+
