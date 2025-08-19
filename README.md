@@ -14,5 +14,5 @@ This is a Python Tkinter project to visualize **Data Structure and Algorithms** 
 ##  Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ajeem0/DSA-Playground.git
-   cd DSA-Playground
+   git clone https://github.com/Ajeem0/Graphical-visualization-of-DSA.git
+   cd Graphical-visualization-of-DSA
